@@ -9,8 +9,8 @@ def stream_data(data):
 animal_shelter = ['고양이', '강아지', '토끼', '새']
 
 st.set_page_config(
-    page_title="DirChat",
-    page_icon=":books:"
+    page_title="Animal Chat",
+    page_icon="🤖"
 )
 
 st.title(":red[Animal] Chat")
